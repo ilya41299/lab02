@@ -4,9 +4,9 @@
 
 ## Tasks
 
-- [ ] 1. Ознакомиться со ссылками учебного материала
-- [ ] 2. Выполнить инструкцию учебного материала
-- [ ] 3. Составить отчет и отправить ссылку личным сообщением в **Slack**
+- [x] 1. Ознакомиться со ссылками учебного материала
+- [x] 2. Выполнить инструкцию учебного материала
+- [x] 3. Составить отчет и отправить ссылку личным сообщением в **Slack**
  
 ## Tutorial
 
@@ -80,45 +80,45 @@ $ gistup -m "lab${LAB_NUMBER}" # enter: yes↵
 
 ### Unix commands
 
-- [ar](https://en.wikipedia.org/wiki/Ar_(Unix))
-- [cat](https://en.wikipedia.org/wiki/Cat_(Unix))
-- [cd](https://en.wikipedia.org/wiki/Cd_(command))
-- [cp](https://en.wikipedia.org/wiki/Cp_(Unix))
-- [cut](https://en.wikipedia.org/wiki/Cut_(Unix))
-- [echo](https://en.wikipedia.org/wiki/Echo_(command))
-- [env](https://en.wikipedia.org/wiki/Env_(shell))
-- [ex](https://en.wikipedia.org/wiki/Ex_(editor))
-- [file](https://en.wikipedia.org/wiki/File_(command))
-- [find](https://en.wikipedia.org/wiki/Find)
-- [ls](https://en.wikipedia.org/wiki/Ls)
-- [man](https://en.wikipedia.org/wiki/Man_page)
-- [mkdir](https://en.wikipedia.org/wiki/Mkdir)
-- [mv](https://en.wikipedia.org/wiki/Mv)
-- [nm](https://en.wikipedia.org/wiki/Nm_(Unix))
-- [ps](https://en.wikipedia.org/wiki/Ps_(Unix))
-- [pwd](https://en.wikipedia.org/wiki/Pwd)
-- [rm](https://en.wikipedia.org/wiki/Rm_(Unix))
-- [sed](https://en.wikipedia.org/wiki/Sed)
-- [touch](https://en.wikipedia.org/wiki/Touch_(Unix))
+- [ar](https://en.wikipedia.org/wiki/Ar_(Unix)) - объединяет группу файлов в один архивный файл.
+- [cat](https://en.wikipedia.org/wiki/Cat_(Unix)) - последовательное чтения файлов и их вывода в стандартный поток.
+- [cd](https://en.wikipedia.org/wiki/Cd_(command)) - перемещение текущими раьочими директориями.
+- [cp](https://en.wikipedia.org/wiki/Cp_(Unix)) - команда для копирования файлов и каталогов.
+- [cut](https://en.wikipedia.org/wiki/Cut_(Unix)) - команда, которая используется для извлечения из файла нужную часть.
+- [echo](https://en.wikipedia.org/wiki/Echo_(command)) - команда используемая для вывода строки на экран или в файл.
+- [env](https://en.wikipedia.org/wiki/Env_(shell)) - команда выводит на печать список переменных окружения или запускает другую программу в измененной среде без необходимости изменения существующих условий.
+- [ex](https://en.wikipedia.org/wiki/Ex_(editor)) - текстовый онлайн редактор
+- [file](https://en.wikipedia.org/wiki/File_(command)) - используется для распознавания типа данных, содержащихся в файлах компьютера.
+- [find](https://en.wikipedia.org/wiki/Find) - поиск файлов.
+- [ls](https://en.wikipedia.org/wiki/Ls) - выдпет список файлов в текущей рабочей директории.
+- [man](https://en.wikipedia.org/wiki/Man_page) - предназначена для форматирования справочных страниц.
+- [mkdir](https://en.wikipedia.org/wiki/Mkdir) -  используется для создания нового каталога.
+- [mv](https://en.wikipedia.org/wiki/Mv) - команда, которая перемещает один или несколько файлов или каталогов из одного места в другое.
+- [nm](https://en.wikipedia.org/wiki/Nm_(Unix)) - используется для проверки файлов и для отображения их содержимого.
+- [ps](https://en.wikipedia.org/wiki/Ps_(Unix)) - отображение текущих процессов. 
+- [pwd](https://en.wikipedia.org/wiki/Pwd) - выводит полный путь к текущемк рабочему каталогу в поток стандартного вовода.
+- [rm](https://en.wikipedia.org/wiki/Rm_(Unix)) - одна из основных команд для удаления таких объектов, как файлы, каталоги, устройства, узлы, символические ссылки, и т. д. из файловой системы. 
+- [sed](https://en.wikipedia.org/wiki/Sed) - утилита, которая анализирует и преобразует текст.
+- [touch](https://en.wikipedia.org/wiki/Touch_(Unix)) - используется для изменения даты и доступа или изменения даты файла или каталога. 
 
 ### Package Managers
 
-- [apt](http://help.ubuntu.ru/wiki/apt) | [dnf](https://en.wikipedia.org/wiki/DNF_(software)) | [yum](https://fedoraproject.org/wiki/Yum/ru)
-- [brew](https://brew.sh) | [linuxbrew](http://linuxbrew.sh)
-- [npm](https://docs.npmjs.com)
+- [apt](http://help.ubuntu.ru/wiki/apt) | [dnf](https://en.wikipedia.org/wiki/DNF_(software)) | [yum](https://fedoraproject.org/wiki/Yum/ru) - менеджеры управления программных пакетов
+- [brew](https://brew.sh) | [linuxbrew](http://linuxbrew.sh) - установщики программных пакетов
+- [npm](https://docs.npmjs.com) - менеджер работы с пакетами JavaScript
 
 ### Software
 
-- [curl](https://www.gitbook.com/book/bagder/everything-curl/details)
-- [wget](https://www.gnu.org/software/wget/manual/wget.pdf)
-- [clang](https://clang.llvm.org)
-- [g++](https://gcc.gnu.org/onlinedocs/gcc-4.0.2/gcc/G_002b_002b-and-GCC.html)
-- [make](https://en.wikipedia.org/wiki/Make_(software))
-- [open](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/open.1.html)
-- [openssl](https://www.openssl.org)
-- [nano](https://www.nano-editor.org)
-- [tree](https://linux.die.net/man/1/tree)
-- [vim](http://www.vim.org)
+- [curl](https://www.gitbook.com/book/bagder/everything-curl/details) - кроссплатформенная служебная программа командной строки, позволяющая взаимодействовать с множеством различных серверов по множеству различных протоколов 
+- [wget](https://www.gnu.org/software/wget/manual/wget.pdf) - свободная неинтерактивная консольная программа для загрузки файлов по сети.
+- [clang](https://clang.llvm.org) - является фронтендом для языков программирования C, C++, Objective-C, Objective-C++ и OpenCL C
+- [g++](https://gcc.gnu.org/onlinedocs/gcc-4.0.2/gcc/G_002b_002b-and-GCC.html) - компилятора языка C++ (GNU C++).
+- [make](https://en.wikipedia.org/wiki/Make_(software)) - инструмент, который автоматически создает исполняемые программы и библиотеки из исходных кодов.
+- [open](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/open.1.html) - открывает файл.
+- [openssl](https://www.openssl.org) - Криптографический пакет с открытым исходным кодом для работы с SSL/TLS. Позволяет создавать ключи и сертификаты, подписывать их, формировать CSR и CRT. Также имеется возможность шифрования данных и тестирования SSL/TLS соединений.
+- [nano](https://www.nano-editor.org) - кончольный текстовый редактор Unix.
+- [tree](https://linux.die.net/man/1/tree) - программа создания рекурсивного каталога.
+- [vim](http://www.vim.org) - текстовый редактор.
 
 ```
 Copyright (c) 2017 Братья Вершинины
