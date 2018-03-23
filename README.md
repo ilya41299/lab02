@@ -93,7 +93,7 @@ $ gistup -m "lab${LAB_NUMBER}" # enter: yes↵
 - [ls](https://en.wikipedia.org/wiki/Ls) - выдает список файлов в текущей рабочей директории.
 - [man](https://en.wikipedia.org/wiki/Man_page) - предназначена для форматирования справочных страниц.
 - [mkdir](https://en.wikipedia.org/wiki/Mkdir) -  используется для создания нового каталога.
-- [mv](https://en.wikipedia.org/wiki/Mv) - команда, которая перемещает один или несколько файлов или каталогов из одного места в другое.
+- [mv](https://en.wikipedia.org/wiki/Mv) - команда, которая переименовывает файлы.
 - [nm](https://en.wikipedia.org/wiki/Nm_(Unix)) - используется для проверки файлов и для отображения их содержимого.
 - [ps](https://en.wikipedia.org/wiki/Ps_(Unix)) - отображение текущих процессов. 
 - [pwd](https://en.wikipedia.org/wiki/Pwd) - выводит полный путь к текущему рабочему каталогу в поток стандартного вовода.
