@@ -116,7 +116,7 @@ $ gistup -m "lab${LAB_NUMBER}" # enter: yes↵
 - [make](https://en.wikipedia.org/wiki/Make_(software)) - инструмент, который автоматически создает исполняемые программы и библиотеки из исходных кодов.
 - [open](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/open.1.html) - открывает файл.
 - [openssl](https://www.openssl.org) - Криптографический пакет с открытым исходным кодом для работы с SSL/TLS. Позволяет создавать ключи и сертификаты, подписывать их, формировать CSR и CRT. Также имеется возможность шифрования данных и тестирования SSL/TLS соединений.
-- [nano](https://www.nano-editor.org) - кончольный текстовый редактор Unix.
+- [nano](https://www.nano-editor.org) - консольный текстовый редактор Unix.
 - [tree](https://linux.die.net/man/1/tree) - программа создания рекурсивного каталога.
 - [vim](http://www.vim.org) - текстовый редактор.
 
