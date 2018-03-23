@@ -82,7 +82,7 @@ $ gistup -m "lab${LAB_NUMBER}" # enter: yes↵
 
 - [ar](https://en.wikipedia.org/wiki/Ar_(Unix)) - объединяет группу файлов в один архивный файл.
 - [cat](https://en.wikipedia.org/wiki/Cat_(Unix)) - последовательное чтения файлов и их вывод в стандартный поток.
-- [cd](https://en.wikipedia.org/wiki/Cd_(command)) - перемещение текущими рабочими директориями.
+- [cd](https://en.wikipedia.org/wiki/Cd_(command)) - перемещение между текущими рабочими директориями.
 - [cp](https://en.wikipedia.org/wiki/Cp_(Unix)) - команда для копирования файлов и каталогов.
 - [cut](https://en.wikipedia.org/wiki/Cut_(Unix)) - команда, которая используется для извлечения из файла нужной части.
 - [echo](https://en.wikipedia.org/wiki/Echo_(command)) - команда, используемая для вывода строки на экран или в файл.
@@ -90,13 +90,13 @@ $ gistup -m "lab${LAB_NUMBER}" # enter: yes↵
 - [ex](https://en.wikipedia.org/wiki/Ex_(editor)) - текстовый онлайн редактор
 - [file](https://en.wikipedia.org/wiki/File_(command)) - используется для распознавания типа данных, содержащихся в файлах компьютера.
 - [find](https://en.wikipedia.org/wiki/Find) - поиск файлов.
-- [ls](https://en.wikipedia.org/wiki/Ls) - выдпет список файлов в текущей рабочей директории.
+- [ls](https://en.wikipedia.org/wiki/Ls) - выдает список файлов в текущей рабочей директории.
 - [man](https://en.wikipedia.org/wiki/Man_page) - предназначена для форматирования справочных страниц.
 - [mkdir](https://en.wikipedia.org/wiki/Mkdir) -  используется для создания нового каталога.
 - [mv](https://en.wikipedia.org/wiki/Mv) - команда, которая перемещает один или несколько файлов или каталогов из одного места в другое.
 - [nm](https://en.wikipedia.org/wiki/Nm_(Unix)) - используется для проверки файлов и для отображения их содержимого.
 - [ps](https://en.wikipedia.org/wiki/Ps_(Unix)) - отображение текущих процессов. 
-- [pwd](https://en.wikipedia.org/wiki/Pwd) - выводит полный путь к текущемк рабочему каталогу в поток стандартного вовода.
+- [pwd](https://en.wikipedia.org/wiki/Pwd) - выводит полный путь к текущему рабочему каталогу в поток стандартного вовода.
 - [rm](https://en.wikipedia.org/wiki/Rm_(Unix)) - одна из основных команд для удаления таких объектов, как файлы, каталоги, устройства, узлы, символические ссылки, и т. д. из файловой системы. 
 - [sed](https://en.wikipedia.org/wiki/Sed) - утилита, которая анализирует и преобразует текст.
 - [touch](https://en.wikipedia.org/wiki/Touch_(Unix)) - используется для изменения даты и доступа или изменения даты файла или каталога. 
